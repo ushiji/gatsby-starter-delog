@@ -1,9 +1,9 @@
 {
   "title": "ブログ作成デモ",
   "siteUrl": "https://modest-torvalds-27323c.netlify.app/",
-  "description": "うしじのブログ記事（https://www.ushiji.online/gatsby-blog-creation）で作成したブログです。",
+  "description": "うしじのブログ記事（https://www.ushiji.online/gatsby-blog-creation）で作成したブログです。この文章は、meta descriptionに使われます。",
   "home": {
     "title": "うしじのブログ作成デモ",
-    "description": "うしじのブログ記事（https://www.ushiji.online/gatsby-blog-creation）で作成したブログです。"
+    "description": "うしじのブログ記事（https://www.ushiji.online/gatsby-blog-creation）で作成したブログです。この文章は、トップページに表示されます。"
   }
 }
